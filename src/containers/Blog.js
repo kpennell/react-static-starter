@@ -6,7 +6,7 @@ export default () => (
   <RouteData
     render={({ posts }) => (
       <div>
-        <h1>It's blog time.</h1>
+        <h1>It's blog time. coolllll</h1>
         <br />
         All Posts:
         <ul>
